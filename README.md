@@ -1,0 +1,1 @@
+# finart-automacao-app
